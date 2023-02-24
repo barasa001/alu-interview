@@ -1,7 +1,10 @@
 #!/usr/bin/python3
 """
-calculating how many sq units of water are retained after it rains, given a list of non-negative integers representingthe heights of walls with unit width, 1
+calculating how many sq units of water are
+retained after it rains, given a list of non-negative
+integers representingthe heights of walls with unit width, 1
 """
+
 
 def rain(walls):
     """get unit of water caught
